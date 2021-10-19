@@ -1,2 +1,2 @@
-# m-primera-pagina
+# pagina
 curso de git
